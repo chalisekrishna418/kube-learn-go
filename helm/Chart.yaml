@@ -1,0 +1,7 @@
+name: k8-golang-learn
+version: "1.0"
+description: Helm Chart for k8-golang-learn
+maintainers:
+  - name: Krishna Chalise
+    email: krishna.chalise@cloudhero.io
+apiVersion: v1
